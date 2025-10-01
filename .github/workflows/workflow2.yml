@@ -37,4 +37,4 @@ jobs:
        pass: 'Nuvelabs123$'
        connect_timeout: 10s
        first_ssh: |
-        sudo curl -l -u admin:115593825ca2975f5fdd181a936862d4db http://localhost:8080/job/DeploymentProject/build?token=token1
+        sudo curl -l -u 11ddea7648f7dce741c769cc24914532c4 http://localhost:8080/job/DeploymentProject/build?token=token1
